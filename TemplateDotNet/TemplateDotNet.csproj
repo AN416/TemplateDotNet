@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <PackageIcon>Screenshot 2023-12-14 234546.png</PackageIcon>
+    <PackageIcon></PackageIcon>
   </PropertyGroup>
 
 
