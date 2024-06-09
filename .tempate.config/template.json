@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Ayman Alhazmu",
+  "classifications": [ "DotNet", "Web", "MVC", "API" ],
+  "identity": "TemplateDotNet",
+  "name": "DotNet Template",
+  "shortName": "HazmiTemplate",
+  "sourceName": "TemplateDotNet",
+
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "preferNameDirectory": true
+}

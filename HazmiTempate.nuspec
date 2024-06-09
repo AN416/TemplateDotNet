@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HazmiTemplate</id>
+    <version>1.0.0</version>
+    <description>
+      Web or Apis Quickie project template using dotnet.
+    </description>
+    <authors>Ayman Alhazmi</authors>
+    <license type="expression">Apache-2.0</license>
+    <packageTypes>
+      <packageType name="TemplateDotNet" />
+    </packageTypes>
+    <readme>readme.md</readme>
+  </metadata>
+  <files>
+    <file src="TemplateDotNet\**\*.*" exclude="TemplateDotNet\**\bin\**\*.*;TemplateDotNet\**\obj\**\*.*" target=".\" />
+    <file src="readme.md" target=".\" />
+  </files>
+</package>
